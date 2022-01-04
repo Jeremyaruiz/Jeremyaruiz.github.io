@@ -8,4 +8,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href="https://www.linkedin.com/in/jeremyatruiz/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
+# Google Analytics
+google_analytics: G-B4S262R9BR
+
 
